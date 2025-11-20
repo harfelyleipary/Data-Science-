@@ -1,0 +1,1 @@
+Tkinter is the standard and built-in library for creating Graphical User Interfaces (GUIs) in Python. It provides a straightforward, object-oriented interface to the Tcl/Tk GUI toolkit, allowing developers to build desktop applications with standard elements like windows, buttons, and text fields. 
