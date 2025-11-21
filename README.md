@@ -45,7 +45,7 @@ The core features include :
 ### Prerequisites
 This project requires the following dependencies:
 - **Python**: 3.8 or higher
-- **Jupyter Notebook**
+- **Jupyter Notebook - Visual Studio Code**
 
 ---
 
@@ -72,10 +72,6 @@ Build **Data-Science-** from the source and install dependencies:
     - **Windows**:
       ```bash
       venv\Scripts\activate
-      ```
-    - **Mac/Linux**:
-      ```bash
-      source venv/bin/activate
       ```
 
 5. **Install the dependencies:**
