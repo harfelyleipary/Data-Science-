@@ -79,6 +79,3 @@ Build **Data-Science-** from the source and install dependencies:
     pip install -r requirements.txt
     ```
 
-If `requirements.txt` is not available, install core dependencies manually:
-```bash
-pip install numpy pandas matplotlib scikit-learn jupyter seaborn
